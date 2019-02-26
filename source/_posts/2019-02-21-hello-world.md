@@ -24,9 +24,4 @@ Hello World
 1
 ```
 
-$$
-  \begin{bmatrix}
-   cos(\theta) & -sin(\theta)  \\\\      #注意，hexo写矩阵时只用两个斜杠，会出错，虽然mardown中是正确的。
-   sin(\theta) & cos(\theta)
-  \end{bmatrix} \tag{2}
-$$
+$$\frac{\partial u}{\partial t} = h^2 \left( \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2 u}{\partial z^2}\right)$$
