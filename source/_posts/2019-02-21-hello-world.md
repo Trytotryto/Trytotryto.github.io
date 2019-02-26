@@ -2,6 +2,7 @@
 layout:     post
 title:      Hello World
 date: 2019-02-21 10:21:00 +0800
+mathjax: true
 keywords:
 categories:
 tags:
