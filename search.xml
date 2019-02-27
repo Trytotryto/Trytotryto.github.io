@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F02%2F21%2F2019-02-21-hello-world%2F</url>
-    <content type="text"><![CDATA[1232333 Hello World 1 11 \frac{\partial u}{\partial t} = h^2 \left( \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2 u}{\partial z^2}\right)]]></content>
+    <content type="text"><![CDATA[1232333 Hello World 1 11 \frac{\partial u}{\partial t} = h^2 \left( \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2 u}{\partial z^2}\right)​ 已知 $x,y\in R​$，$(x+y)^2+(x-\frac 2 y)^2​$的最小值为 $?​$ \begin{align*} y = y(x,t) &= A e^{i\theta} \\ &= A (\cos \theta + i \sin \theta) \\ &= A (\cos(kx - \omega t) + i \sin(kx - \omega t)) \\ &= A\cos(kx - \omega t) + i A\sin(kx - \omega t) \\ &= A\cos \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big) + i A\sin \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big) \\ &= A\cos \frac{2\pi}{\lambda} (x - v t) + i A\sin \frac{2\pi}{\lambda} (x - v t) \end{align*} \mathbf{X} = \left( \begin{array}{ccc} x\_{11} & x\_{12} & \ldots \\\\ x\_{21} & x\_{22} & \ldots \\\\ \vdots & \vdots & \ddots \end{array} \right) \sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$E=mc^2​$ is a very important formula. E=mc^2]]></content>
       <tags>
         <tag>note</tag>
       </tags>
