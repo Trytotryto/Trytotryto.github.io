@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[练习题组1]]></title>
-    <url>%2F2019%2F03%2F01%2F%E5%88%A0%E9%99%A4%E7%9A%84%2F%E7%BB%83%E4%B9%A0%E9%A2%98%E7%BB%841%2F</url>
-    <content type="text"><![CDATA[1、（2014年北京市海淀区高一期末试题）已知函数(f(x)=\sin\dfrac{\pi}2x)，任取(t\in\mathcal R)，记函数(f(x))在区间([t,t+1])上的最大值为(M_t)，最小值为(m_t)，记(h(t)=M_t-m_t)．则关于函数(h(t))有如下结论：&lt;/p&gt; ① 函数\(h(t)\)为偶函数； ② 函数\(h(t)\)的值域为\(\left[1-\dfrac{\sqrt 2}2,1\right]\)； ③ 函数\(h(t)\)的周期为\(2\)； ④ 函数\(h(t)\)的单调增区间为\(\left[2k+\dfrac 12,2k+\dfrac 32\right],k\in \mathcal Z\)， 其中正确的结论有________．（填上所有正确的结论序号） 2、（2014年北京市海淀区高一期末考试题）已知函数\(f(x)\)的定义域为\([0,1]\)，且\(f(x)\)的图象连续不间断．若函数\(f(x)\)满足：对于给定的\(m\)（其中\(m\in\mathcal R\)且\(m\in(0,1)\)，存在\(x_0\in [0,1-m]\)，使得\(f(x_0)=f(x_0+m)\)，则称\(f(x)\)具有性质\(P(m)\)． （1）已知函数\(f(x)=\left(x-\dfrac 12\right)^2,x\in [0,1]\)，判断\(f(x)\)是否具有性质\(P\left(\dfrac 13\right)\)，并说明理由； （2）已知函数\[f(x)=\begin{cases}-4x+1,&amp;0\leqslant x&lt;\dfrac 14,\\4x-1,&amp;\dfrac 14\leqslant x&lt;\dfrac 34,\\-4x+5,&amp;\dfrac 34\leqslant x\leqslant 1,\end{cases}\]若\(f(x)\)具有性质\(P(m)\)，求\(m\)的最大值； （3）若函数\(f(x)\)的定义域为\([0,1]\)，且\(f(x)\)的图象连续不间断，又满足\(f(0)=f(1)\)，求证：对任意\(k\in\mathcal N^*\)且\(k\geqslant 2\)，函数\(f(x)\)具有性质\(P\left(\dfrac 1k\right)\)． 3、（2013年北京市西城区高一期末考试题）已知函数\(g(x)={\log_a}x\),其中\(a&gt;1\)． （1）当\(x\in[0,1]\)时，\(g(a^x+2)&gt;1\)恒成立，求\(a\)的取值范围； （2）设\(m(x)\)是定义在\([s,t]\)上的函数，在\((s,t)\)内任取\(n-1\)个数\(x_1,x_2,\cdots,x_{n-2},x_{n-1}\)，设\(x_1&lt;x_2&lt;\cdots&lt;x_{n-2}&lt;x_{n-1}\)，令\(s=x_0\)，\(t=x_n\)，如果存在一个常数\(M&gt;0\)，使得\[\sum_{i=1}^n\left|m(x_i)-m(x_{i-1})\right|\leqslant M\]恒成立，则称函数\(m(x)\)在区间\([s,t]\)上具有性质\(P\)． 试判断函数\(f(x)=\left|g(x)\right|\)在区间\(\left[\dfrac 1a,a^2\right]\)上是否具有性质\(P\)？若具有性质\(P\)，请求出\(M\)的最小值；若不具有性质\(P\)，请说明理由．]]></content>
-      <tags>
-        <tag>每周一练</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[2月28日]]></title>
     <url>%2F2019%2F02%2F28%2F2%E6%9C%8828%E6%97%A5%2F</url>
-    <content type="text"><![CDATA[【第4题】已知数列${an}$是首项为$a$，公差为$d$的等差数列，且对任意正整数$n$，均有$a_n\ne 0$，则数列$\left{\dfrac{1}{a_na{n+1}}\right}$的前$~n~​$项和为_． 【第3题】已知函数$~\displaystyle f(x)=(x-m)^3+(x-me^m)^3-2ax~(x\in R)~​$在$~R~​$上单调递增，则$~a~​$的取值范围是__.]]></content>
+    <content type="text"><![CDATA[【第4题】已知数列${an}$是首项为$a$，公差为$d$的等差数列，且对任意正整数$n$，均有$a_n\ne 0$，则数列$\left{\dfrac{1}{a_na{n+1}}\right}$的前$n$项和为_． 【第3题】已知函数$~\displaystyle f(x)=(x-m)^3+(x-me^m)^3-2ax~(x\in R)~$在$~R~$上单调递增，则$~a~​$的取值范围是__.]]></content>
       <tags>
         <tag>每日一题</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F02%2F21%2F%E5%88%A0%E9%99%A4%E7%9A%84%2F2019-02-21-hello-world%2F</url>
-    <content type="text"><![CDATA[1232333 Hello World 1 11 \frac{\partial u}{\partial t} = h^2 \left( \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} + \frac{\partial^2 u}{\partial z^2}\right) 已知 $x,y\in R$，$(x+y)^2+(x-\frac 2 y)^2$的最小值为 $?$ \begin{align*} y = y(x,t) &= A e^{i\theta} \\ &= A (\cos \theta + i \sin \theta) \\ &= A (\cos(kx - \omega t) + i \sin(kx - \omega t)) \\ &= A\cos(kx - \omega t) + i A\sin(kx - \omega t) \\ &= A\cos \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big) + i A\sin \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big) \\ &= A\cos \frac{2\pi}{\lambda} (x - v t) + i A\sin \frac{2\pi}{\lambda} (x - v t) \end{align*} \mathbf{X} = \left( \begin{array}{ccc} x\_{11} & x\_{12} & \ldots \\\\ x\_{21} & x\_{22} & \ldots \\\\ \vdots & \vdots & \ddots \end{array} \right) \sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$E=mc^2​$ is a very important formula. E=mc^2]]></content>
-      <tags>
-        <tag>note</tag>
       </tags>
   </entry>
 </search>
