@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[2月28日]]></title>
-    <url>%2F2019%2F02%2F28%2F2%E6%9C%8828%E6%97%A5%2F</url>
-    <content type="text"><![CDATA[【第4题】已知数列${an}$是【第4题】已知数列${a_n}$是首项为$a​$，公差为$d​$的等差数列，且对任意正整数$n​$，均有$a_n \ne 0​$，则数列$\left{\dfrac{1}{a_na{n+1}}\right}​$的前$n​$项和为_． 【第3题】已知函数$~\displaystyle f(x)=(x-m)^3+(x-me^m)^3-2ax~(x\in R)~​$在$~R~​$上单调递增，则$~a~​$的取值范围是__.]]></content>
-      <tags>
-        <tag>每日一题</tag>
-      </tags>
-  </entry>
+<search> 
+  
+    
+    <entry>
+      <title>2月28日</title>
+      <link href="/2019/02/28/2%E6%9C%8828%E6%97%A5/"/>
+      <url>/2019/02/28/2%E6%9C%8828%E6%97%A5/</url>
+      <content type="html"><![CDATA[<p>【第4题】已知数列$a_n$是</p><p>【第4题】已知数列${a<em>n}$是首项为$a​$，公差为$d​$的等差数列，且对任意正整数$n​$，均有$a_n \ne 0​$，则数列$\left{\dfrac{1}{a_na</em>{n+1}}\right}​$的前$n​$项和为<strong><strong><em>_</em></strong></strong>．</p><p>【第3题】已知函数$~\displaystyle f(x)=(x-m)^3+(x-me^m)^3-2ax~(x\in R)~​$在$~R~​$上单调递增，则$~a~​$的取值范围是<strong><strong>__</strong></strong>.</p>]]></content>
+      
+      
+        <tags>
+            
+            <tag> 每日一题 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
 </search>
